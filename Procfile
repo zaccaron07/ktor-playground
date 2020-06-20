@@ -1,1 +1,1 @@
-web: build/install/example/bin
+web: build/install/example/bin/example.bat
